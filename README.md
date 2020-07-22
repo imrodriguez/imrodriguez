@@ -1,5 +1,5 @@
-### Hi! I'm Imanol
-## Front End developer from Barcelona.
+## Hi! I'm Imanol
+### Front End developer from Barcelona.
 
 ![imrodriguez](https://repository-images.githubusercontent.com/280490808/d395f780-c86e-11ea-9dc7-85eed5db6234)
 
